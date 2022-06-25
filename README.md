@@ -1,1 +1,1 @@
-# EDA-on-Global-Terrorim
+# EDA-on-Global-Terrorism
